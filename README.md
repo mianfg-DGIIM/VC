@@ -1,4 +1,6 @@
-[⬅ Más asignaturas del DGIIM](https://github.com/mianfg/DGIIM)
+[⬅ Más asignaturas del DGIIM](https://github.com/mianfg-DGIIM)
+
+![Repo image](https://repository-images.githubusercontent.com/476467607/3d597dbb-7b15-4987-960f-0cb5ce91d785)
 
 # `VC` Visión por Computador (_Computer Vision_)
 
